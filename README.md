@@ -8,8 +8,14 @@ designed a Power BI dashboard tailored for churn analysis for a telecom company,
 
 By oberserving above dashbaord we can say:
 
-We have 27% of churners form the employees.
-People with monthly contract has the most chances of leaivng company.
-This company has most customers with monthly subscription.
-Most customers leaving company less than 20 months.
-Customers who have dependency are less likely to leave the company.
+Observation 1: Month-to-Month customers churn the most
+
+From the "Churns by Contract" chart, around 88% of churned customers are on Month-to-Month contracts. Customers with One-Year and Two-Year contracts have significantly lower churn. This suggests that long-term contracts help improve customer retention.
+
+Observation 2: Fiber Optic customers have higher churn
+
+The Internet Service analysis shows that a large number of churners use Fiber Optic internet service. This could indicate pricing issues, service quality concerns, or higher customer expectations among Fiber Optic users.
+
+Observation 3: New customers are more likely to churn
+
+The Tenure chart shows that most churn occurs within the 0-20 months tenure group. Customers who stay longer tend to remain with the company, indicating that customer engagement during the initial months is critical.
